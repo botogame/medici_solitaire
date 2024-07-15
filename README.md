@@ -565,6 +565,6 @@
 
 Пока!
 
-<img src="./perfect_path.jpg" width="500">
+<img src="./perfect_path.jpg" width="300">
 
 
