@@ -563,4 +563,8 @@
 
 Контакт на сайте: https://wikimagia.forum2x2.ru/t710-topic
 
+Пока!
+
+<img src="./perfect_path.jpg" width="600">
+
 
